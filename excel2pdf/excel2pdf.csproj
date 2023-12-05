@@ -13,7 +13,7 @@
 			<Lcid>0</Lcid>
 			<WrapperTool>primary</WrapperTool>
 			<VersionMajor>1</VersionMajor>
-			<VersionMinor>9</VersionMinor>
+			<VersionMinor>3</VersionMinor>
 		</COMReference>
 	</ItemGroup>
 </Project>
